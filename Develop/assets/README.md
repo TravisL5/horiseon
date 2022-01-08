@@ -1,10 +1,21 @@
-# Code Refactor Starter Code
-   # Updates for Hero Section
+# Horiseon, Inc
 
-   ## Content Requirements
-   * Heading: "Start Building Habits."
-   * Text Body: Lorem ipsum text placeholder
-   * Download new hero image for hero section
+## Purpose 
 
-   ## Questions/suggestions for Design Team
-   * What will be the marketing text?
+A website for search engine optimization.
+
+## 
+
+-HTML
+-CSS
+
+## Website
+
+
+https://travisl5.github.io/horiseon/
+
+## Contribution
+
+Made by Travis Lansing
+
+### Horiseon, Inc
